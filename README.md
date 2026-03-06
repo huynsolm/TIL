@@ -29,6 +29,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-03-07-CSS-최적화-및-접근성-개선-전략](ai-agent/2026-03-07-CSS-최적화-및-접근성-개선-전략.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
